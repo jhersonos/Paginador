@@ -1,0 +1,40 @@
+
+.paginator{
+
+}
+.paginator ul li{
+	width: 20px;
+	height: 20px;
+	background-color: silver;
+	border-radius: 5px;
+	color:white;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+}
+.mydata{
+	display: none;
+}
+.activex{
+	display: inline-block !important;
+}
+.none{
+	display: none !important;
+}
+.pagina{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    background-color: rgba(214, 214, 214, 0.78);
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    display: inline-block;
+}
+.pagina a{
+	text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
